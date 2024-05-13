@@ -1,4 +1,4 @@
-# Módulo 3 - Trilha HTML
+# Módulo 3 - Trilha HTML - DIO
 
 ## Título: Recriando Wikipedia
 ## Objetivo
